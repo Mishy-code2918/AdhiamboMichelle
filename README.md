@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdhiamboMichelle
+- 👋 Hi, I’m @Blue
 - 👀 I’m interested in Web development...
 - 🌱 I’m currently learning fullstack development...
 - 💞️ I’m looking forward to collaborate with you in terms of learning new skills ...
@@ -9,5 +9,5 @@
 
 <!---
 AdhiamboMichelle/AdhiamboMichelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your chang es.
 --->
